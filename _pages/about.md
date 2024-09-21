@@ -15,9 +15,8 @@ I am a Ph.D. student enrolled in a combined master's and doctoral program superv
 
 ## Publications
   
-* ** W** Our paper "[Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection](https://arxiv.org/pdf/2406.06999) is now available’’.(June 2024)
   
-* **<span style="color:red;">[Paper:]</span>** Our paper "[Multi-modal long document classification based on Hierarchical Prompt and Multi-modal Transformer](https://www.sciencedirect.com/science/article/pii/S0893608024002466)" has been accepted by Neural Networks. (April 2024)
+* **<span style="color:blue;">[Paper:]</span>** Our paper "[Multi-modal long document classification based on Hierarchical Prompt and Multi-modal Transformer](https://www.sciencedirect.com/science/article/pii/S0893608024002466)" has been accepted by Neural Networks. (April 2024)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "[MADE: Multicurvature Adaptive Embedding for Temporal Knowledge Graph Completion](https://example.com/paper2)" has been accepted by TCYB. (May 2024)
   
