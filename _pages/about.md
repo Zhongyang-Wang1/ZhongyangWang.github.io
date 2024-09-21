@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Background"
+title: "Welcome to Zhongyang Wang’s Homepage 王忠阳"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ I am a Ph.D. student enrolled in a combined master's and doctoral program superv
 - Hierarchical Graph Convolutional Network for Structured Long Document Classification[[Link]](https://drive.google.com/drive/folders/1GAQJ0oWRObOuFIbTeVE8vFI0zBkRG1pa)
 - Hierarchical Multi-modal Prompt Transformer for Multi-modal Long Document Classification [[Link]](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E)
 
-# <i><span style="color:red;">News</span></i>
+## Publications
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification
 ](https://arxiv.org/abs/2407.10105) is now available’’.(July 2024)
   
