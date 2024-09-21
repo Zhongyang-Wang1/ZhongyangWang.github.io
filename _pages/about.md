@@ -14,7 +14,7 @@ I am a Ph.D. student enrolled in a combined master's and doctoral program superv
 - Hierarchical Multi-modal Prompt Transformer for Multi-modal Long Document Classification [[Link]](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E)
 
 ## Publications
-* <## Zhongyang Wang>, Youqing Wang*, and
+* \textbf{X}, Youqing Wang*, and
   
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection](https://arxiv.org/pdf/2406.06999) is now available’’.(June 2024)
   
