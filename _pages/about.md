@@ -16,7 +16,7 @@ I am a Ph.D. student enrolled in a combined master's and doctoral program superv
 ## Publications
   
   
-* **<span style="color:blue;">Zhongyang Wang</span>**, Youqing Wang, and Zdzislaw Kowalczuk, "Adaptive Optimal Discrete-Time Output-Feedback Using an Internal Model Principle and Adaptive Dynamic Programming(https://www.sciencedirect.com/science/article/pii/S0893608024002466)", **<span style="color:blue;">IEEE/CAA Journal of Automatica Sinica</span>**
+* **<span style="color:blue;">Zhongyang Wang</span>**, Youqing Wang, and Zdzislaw Kowalczuk, "[Adaptive Optimal Discrete-Time Output-Feedback Using an Internal Model Principle and Adaptive Dynamic Programming](https://www.sciencedirect.com/science/article/pii/S0893608024002466)", **<span style="color:blue;">IEEE/CAA Journal of Automatica Sinica</span>**
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "[MADE: Multicurvature Adaptive Embedding for Temporal Knowledge Graph Completion](https://example.com/paper2)" has been accepted by TCYB. (May 2024)
   
