@@ -16,9 +16,9 @@ I am a Ph.D. student enrolled in a combined master's and doctoral program superv
 ## Publications
   
   
-* **<span style="color:blue;">Zhongyang Wang</span>**, Youqing Wang, and Zdzislaw Kowalczuk, "Adaptive Optimal Discrete-Time Output-Feedback Using an Internal Model Principle and Adaptive Dynamic Programming", **<span style="color:blue;">IEEE/CAA Journal of Automatica Sinica</span>**, 2024, 11(1):131-140.   [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608024002466)
+* **<span style="color:blue;">Zhongyang Wang</span>**, Youqing Wang, and Zdzislaw Kowalczuk, "Adaptive Optimal Discrete-Time Output-Feedback Using an Internal Model Principle and Adaptive Dynamic Programming", **<span style="color:blue;">IEEE/CAA Journal of Automatica Sinica</span>**, 2024, 11(1):131-140.   [[PDF]](https://www.ieee-jas.net/en/article/id/f87080bd-b198-4ae2-af70-a9cbae2ff45a)
 
-* **<span style="color:red;">[Paper:]</span>** Our paper "[MADE: Multicurvature Adaptive Embedding for Temporal Knowledge Graph Completion](https://example.com/paper2)" has been accepted by TCYB. (May 2024)
+* **<span style="color:blue;">Zhongyang Wang</span>**, Youqing Wang, Masoud Davar, and F. Blaabjerg, "An Effective PQ -Decoupling Control Scheme Using Adaptive Dynamic Programming Approach to Reducing Oscillations of Virtual Synchronous Generators for Grid Connection With Different Impedance Types", **<span style="color:blue;">IEEE/CAA Journal of Automatica Sinica</span>**, 2024, 11(1):131-140.   [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608024002466)
   
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Hierarchical Multi-Granularity Interaction Graph Convolutional Network for Long Document Classification](https://ieeexplore.ieee.org/abstract/document/10452857)" has been accepted by TASLP. (May 2024)
 
